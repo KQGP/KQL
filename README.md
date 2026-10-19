@@ -36,6 +36,3 @@ firebase-config.js  # Firebase configuration
 
 ## ⚙️ Configuration
 Firebase keys are in `firebase-config.js`. Replace with your own project credentials.
-
-## 📄 License
-No license specified.
